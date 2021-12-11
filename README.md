@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+create-react-component-folder - npm
+
+how to auto-create folders and files in reactjs
+cara membuat otomatis complit folder beserta file
+
+npm install --save-dev create-react-component-folder
+npx crcf myComponent ('myComponent' adalah nama folder)

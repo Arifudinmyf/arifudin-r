@@ -70,11 +70,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+KOMPONEN YANG DI INSTALL MEMBUAT PROJECT DARI AWAL (JIKA DI CLONE  CUKUP DI NPM INSTALL SAJA)
+
+MEMBUAT PROJECT BARU 
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+npm install -g serve
+
+
+MEMBUAT FOLDER BARU
 
 create-react-component-folder - npm
 
 how to auto-create folders and files in reactjs
+
 cara membuat otomatis complit folder beserta file
 
 npm install --save-dev create-react-component-folder
 npx crcf myComponent ('myComponent' adalah nama folder)
+
+Install FRAMEWORK Express
+
+npm install express react-express --save
+npm install express-react-engine react react-dom
+npm install @nguniversal/express-engine --save
+
+database
+npm install mongoose
+
+npm install react-webpack
+npm i react-dom-server
